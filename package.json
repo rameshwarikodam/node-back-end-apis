@@ -1,5 +1,5 @@
 {
-  "name": "node-apis",
+  "name": "node-back-end-apis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rameshwarikodam/Node-APIs.git"
+    "url": "git+https://github.com/rameshwarikodam/node-back-end-apis.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rameshwarikodam/Node-APIs/issues"
+    "url": "https://github.com/rameshwarikodam/node-back-end-apis/issues"
   },
-  "homepage": "https://github.com/rameshwarikodam/Node-APIs#readme",
+  "homepage": "https://github.com/rameshwarikodam/node-back-end-apis#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
